@@ -83,12 +83,12 @@ body {
 }
 
 .img-text-wrapper .subtitle {
-  transition: 1s;
+  transition: 0.8s;
   color: transparent;
 }
 
 .image-blur {
-  transition: 1s;
+  transition: 0.8s;
   filter: brightness(10%);
 }
 
